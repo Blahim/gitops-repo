@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nginx
+        image: ouattarabl/myapp:v2
         ports:
         - containerPort: 80
 
